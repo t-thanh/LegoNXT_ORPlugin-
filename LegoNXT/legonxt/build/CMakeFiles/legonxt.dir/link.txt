@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,liblegonxt.so -o liblegonxt.so CMakeFiles/legonxt.dir/src/legonxt.cpp.o CMakeFiles/legonxt.dir/src/AccelSensor.cpp.o CMakeFiles/legonxt.dir/src/TouchSensor.cpp.o CMakeFiles/legonxt.dir/src/Motor.cpp.o -L/usr/local/lib -lopenrave0.5 -Wl,-rpath,/usr/local/lib: 

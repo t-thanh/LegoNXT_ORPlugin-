@@ -1,0 +1,1 @@
+/home/raman/LegoNXT_ORPlugin-/LegoNXT/legonxt/build/CMakeFiles/legonxt.dir
